@@ -1,0 +1,12 @@
+name: geopython-environment
+channels:
+  - conda-forge
+dependencies:
+  - gdal
+  - fiona
+  - shapely
+  - rtree
+  - geopandas
+  - plotly
+  - ipywidgets
+  - jupyter_contrib_nbextensions
