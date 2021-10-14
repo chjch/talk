@@ -1,5 +1,5 @@
 # Presentation Collection
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chjch/talk/HEAD/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chjch/talk/main/tree)
 
 My presentations.
